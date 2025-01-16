@@ -87,8 +87,8 @@ Below: The high platform constructed by the MTA at Rye on Metro-North's New Have
 
 The remaining gaps include:
 
-* Breakneck Ridge, Manitou, and Appalachian Trail, which are all limited-service stops, and the first of which is already scheduled to get a high platform  
-* Several stations on the Waterbury Branch in Connecticut  
+* Breakneck Ridge, Manitou, and Appalachian Trail, which are all limited-service stops, and the first of which is already scheduled to get a high platform
+* Several stations on the Waterbury Branch in Connecticut
 * Several stations on west-of-Hudson lines
 
 As nearly all of the remaining low-platform stations are in Connecticut or west of the Hudson, the MTA and Metro-North would need to work alongside both NJ Transit and Connecticut DOT to complete the installation of high platforms.
@@ -104,18 +104,18 @@ At the same time, ETA recommends against designing a new train. More often than 
 Left: A 12-car, high-floor EMU Stadler FLIRT Class 745 operating in Greater Anglia.[^class-745-citation]  
 Right: A 12-car, high-floor, dual-voltage EMU Siemens Desiro City Class 700.[^class-700-citation]
 
-* A common fleet, able to operate under all electrification systems in the region and all current and future signal systems:[^future-signalling-cbtc-ato]  
-  * 12 kV 25 Hz AC overhead line (Northeast Corridor (NEC) south of Hell Gate, North Jersey Coast Line (NJCL) north of Aberdeen-Matawan, SEPTA territory[^ex-reading-electrification])  
-  * 12.5 kV 60 Hz AC overhead line (Metro-North Pelham to New Haven, Amtrak Hell Gate Line to New Rochelle, Metro-North New Canaan Branch)  
-  * 25 kV 60 Hz AC overhead line (Morris and Essex Line and NJCL beyond Aberdeen-Matawan, Amtrak New Haven To Boston)  
-  * 750 V DC overrunning third rail (the rest of electrified Metro-North)  
-  * 750 V DC underrunning third rail (electrified LIRR)  
-* A maximum roof height of 13' 3" in order to fit in the 63rd Street Tunnel.  
-* Modern performance specs, including a maximum speed of 125 mph,[^125-mph-speed-limit] a peak power-to-empty AW0[^AW0-meaning] weight ratio of about 22 hp/short ton (18 W/kg), and an initial acceleration of at least 2.5 mph/s2.  
-* [Modern passenger information screens, as described in Part 1](https://www.etany.org/a-not-so-capital-plan-1-most-expensive-subway-train#:~:text=Modern%20passenger%20information%20screens).  
-* Permanently-coupled units with open gangways between cars, allowing for free passenger movement. Ideally, units should be procured as 4 and 6-car length equivalent sets rather than today's practice of married pairs. With married pairs, every train car contains one set of control equipment, most of which are rarely used. Sets of 4 or more cars not only result in fewer unused cabs, but give passengers more room in the cars, increasing capacity while simplifying movement between cars thanks to more open gangways. With these 4 and 6-car sets, one or two of them can be coupled into trains of 4, 6, 8, 10, or 12 cars, with each permanently-coupled set having one pantograph active  at a time.[^fewer-pantographs] If the MTA believes there are fire safety concerns with longer open gangway trains, then [fire suppression systems as we outline in Part 1](https://www.etany.org/a-not-so-capital-plan-1-most-expensive-subway-train#:~:text=Fire%20and%20smoke%20detection%20and%20suppression%20systems%20and%20improved%20ventilation) should be added.  
-* [On-board cameras that train crew have access to, as explained in Part 1](https://www.etany.org/a-not-so-capital-plan-1-most-expensive-subway-train#:~:text=CCTV%20of%20subway%20car%20interiors%20and%20exteriors%2C%20with%20train%20crew%20and%20dispatcher%20access).  
-* Built-in support for one- and two-person crews for trains up to 12 cars long. While labor conditions currently prohibit operating trains with such small crews, any new train will be around for decades, and new equipment should be able to meet modern operating standards should labor relations allow it.  
+* A common fleet, able to operate under all electrification systems in the region and all current and future signal systems:[^future-signalling-cbtc-ato]
+  * 12 kV 25 Hz AC overhead line (Northeast Corridor (NEC) south of Hell Gate, North Jersey Coast Line (NJCL) north of Aberdeen-Matawan, SEPTA territory[^ex-reading-electrification])
+  * 12.5 kV 60 Hz AC overhead line (Metro-North Pelham to New Haven, Amtrak Hell Gate Line to New Rochelle, Metro-North New Canaan Branch)
+  * 25 kV 60 Hz AC overhead line (Morris and Essex Line and NJCL beyond Aberdeen-Matawan, Amtrak New Haven To Boston)
+  * 750 V DC overrunning third rail (the rest of electrified Metro-North)
+  * 750 V DC underrunning third rail (electrified LIRR)
+* A maximum roof height of 13' 3" in order to fit in the 63rd Street Tunnel.
+* Modern performance specs, including a maximum speed of 125 mph,[^125-mph-speed-limit] a peak power-to-empty AW0[^AW0-meaning] weight ratio of about 22 hp/short ton (18 W/kg), and an initial acceleration of at least 2.5 mph/s2.
+* [Modern passenger information screens, as described in Part 1](https://www.etany.org/a-not-so-capital-plan-1-most-expensive-subway-train#:~:text=Modern%20passenger%20information%20screens).
+* Permanently-coupled units with open gangways between cars, allowing for free passenger movement. Ideally, units should be procured as 4 and 6-car length equivalent sets rather than today's practice of married pairs. With married pairs, every train car contains one set of control equipment, most of which are rarely used. Sets of 4 or more cars not only result in fewer unused cabs, but give passengers more room in the cars, increasing capacity while simplifying movement between cars thanks to more open gangways. With these 4 and 6-car sets, one or two of them can be coupled into trains of 4, 6, 8, 10, or 12 cars, with each permanently-coupled set having one pantograph active  at a time.[^fewer-pantographs] If the MTA believes there are fire safety concerns with longer open gangway trains, then [fire suppression systems as we outline in Part 1](https://www.etany.org/a-not-so-capital-plan-1-most-expensive-subway-train#:~:text=Fire%20and%20smoke%20detection%20and%20suppression%20systems%20and%20improved%20ventilation) should be added.
+* [On-board cameras that train crew have access to, as explained in Part 1](https://www.etany.org/a-not-so-capital-plan-1-most-expensive-subway-train#:~:text=CCTV%20of%20subway%20car%20interiors%20and%20exteriors%2C%20with%20train%20crew%20and%20dispatcher%20access).
+* Built-in support for one- and two-person crews for trains up to 12 cars long. While labor conditions currently prohibit operating trains with such small crews, any new train will be around for decades, and new equipment should be able to meet modern operating standards should labor relations allow it.
 * A mean distance between failure ([MDBF](https://metrics.mta.info/?mnr/meandistancebetweenfailures)) matching that of the M8s; [the 12-month harmonic average ending September 2024 is 712,000 miles](https://drive.google.com/open?id=1kZG91eTyC7VKMU_iRewJjXb3DzoA857E).[^M8-MDBF]
 
 ## A Fallback Option, with Drawbacks
@@ -133,7 +133,7 @@ Unlike locomotives, dual-mode MUs would be able to fit everywhere on the region'
 Among the available options, BEMUs are the most common. The current offerings, such as the Stadler FLIRT Akku, can be designed to offer a roundtrip range of 100 miles off-wire, allowing for trains to continue in service for 50 miles past the end of electrification regardless of weather.[^flirt-akku-bemu-range] This range is good enough for all east-of-Hudson Metro-North lines, and for all LIRR lines except the Montauk Line. If the MTA chooses to purchase BEMUs, it might consider electrifying the Montauk Line from Babylon to Speonk first, which would allow BEMUs to then continue to operate all the way out to Montauk.
 
 [![](https://upload.wikimedia.org/wikipedia/commons/a/af/DB_BR_463_001_Velim.jpg)](https://commons.wikimedia.org/wiki/File:DB_BR_463_001_Velim.jpg)
-[![](https://live.staticflickr.com/65535/51273200450_b4e1f60dfb_o.jpg)](https://www.flickr.com/photos/kitmasterbloke/51273200450/)  
+[![](https://live.staticflickr.com/65535/51273200450_b4e1f60dfb_o.jpg)](https://www.flickr.com/photos/kitmasterbloke/51273200450/)
 Left: A Siemens Mireo Plus B BEMU.[^mireo-plus-B-BEMU-citation]  
 Right: A Stadler FLIRT Class 755/3 DEMU operating in Greater Anglia. The diesel powerpack can be seen in between the passenger cars.[^flirt-class-755-3-demu]
 
@@ -153,16 +153,16 @@ Going forward, it is imperative to coordinate and integrate rolling stock procur
 
 ## Contributors
 
-Alon Levy  
-Blair Lorenzo  
-Darius Jankauskas  
-Kara Fischer  
-Khyber Sen  
-Madison Feinberg  
-Robert Hale  
-William Meehan
+* Alon Levy
+* Blair Lorenzo
+* Darius Jankauskas
+* Kara Fischer
+* Khyber Sen
+* Madison Feinberg
+* Robert Hale
+* William Meehan
 
-[^M8-catenary-pantograph-citation]: Interstate Railfan, "A Metro North M-8 EMU arrives at New Haven," (August 28, 2018, <https://commons.wikimedia.org/wiki/File:Interstate_Railfan_-_A_Metro_North_M-8_Arrives_at_New_Haven.jpg>).  
+[^M8-catenary-pantograph-citation]: Interstate Railfan, "A Metro North M-8 EMU arrives at New Haven," (August 28, 2018, <https://commons.wikimedia.org/wiki/File:Interstate_Railfan_-_A_Metro_North_M-8_Arrives_at_New_Haven.jpg>).
 
 [^M8-third-rail-shoe-citation]: Dannel Malloy, "Third rail contact shoe on MNCR M8 car \#9101," (January 22, 2017, <https://commons.wikimedia.org/wiki/File:M8_railcar_-9101_contact_shoe,_September_2016.jpg>).
 
