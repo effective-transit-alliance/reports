@@ -3,7 +3,7 @@
 [![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Interstate_Railfan_-_A_Metro_North_M-8_Arrives_at_New_Haven.jpg)](https://commons.wikimedia.org/wiki/File:Interstate_Railfan_-_A_Metro_North_M-8_Arrives_at_New_Haven.jpg)
 [![](https://upload.wikimedia.org/wikipedia/commons/0/09/M8_railcar_-9101_contact_shoe%2C_September_2016.jpg)](https://commons.wikimedia.org/wiki/File:M8_railcar_-9101_contact_shoe,_September_2016.jpg)
 
-Metro-North's M8 can run on catenary power (left) or on either over- or under-running third rails (shoe seen at right).[^M8-citation]
+Metro-North's M8 can run on catenary power (left[^M8-catenary-pantograph-citation]) or on either over- or under-running third rails (shoe seen at right[^M8-third-rail-shoe-citation]).
 
 ## Introduction
 
@@ -80,9 +80,9 @@ Metro-North has largely done the same on its stations, but there are a few gaps 
 
 [![](https://upload.wikimedia.org/wikipedia/commons/d/d7/Port_Jervis_bound_train_leaving_Harriman.jpg)](https://commons.wikimedia.org/wiki/File:Port_Jervis_bound_train_leaving_Harriman.jpg)[![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Manitou_train_station.jpg)](https://commons.wikimedia.org/wiki/File:Manitou_train_station.jpg)[![](https://upload.wikimedia.org/wikipedia/commons/6/6a/Rye_station_from_passing_train%2C_July_2019.JPG)](https://commons.wikimedia.org/wiki/File:Rye_station_from_passing_train,_July_2019.JPG)
 
-Left: The low platform at Harriman station.  
-Right: The low platform at Manitou station.  
-Below: The high platform constructed by the MTA at Rye on Metro-North's New Haven Line.[^harriman-low-platform-citation]
+Left: The low platform at Harriman station.[^harriman-low-platform-citation]  
+Right: The low platform at Manitou station.[^manitou-low-platform-citation]  
+Below: The high platform constructed by the MTA at Rye on Metro-North's New Haven Line.[^rye-high-platform-constructed-citation]
 
 The remaining gaps include:
 
@@ -100,9 +100,8 @@ At the same time, ETA recommends against designing a new train. More often than 
 
 [![](https://upload.wikimedia.org/wikipedia/commons/a/ad/Greater_Anglia_745010_Colchester.jpg)](https://en.wikipedia.org/wiki/British_Rail_Class_745#/media/File:Greater_Anglia_745010_Colchester.jpg)[![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Thameslink_Class_700_155_at_Peterborough.jpg)](https://commons.wikimedia.org/wiki/File:Thameslink_Class_700_155_at_Peterborough.jpg)
 
-Left: A 12-car, high-floor EMU Stadler FLIRT Class 745 operating in Greater Anglia.
-
-Right: A 12-car, high-floor, dual-voltage EMU Siemens Desiro City Class 700.[^class-745-citation]
+Left: A 12-car, high-floor EMU Stadler FLIRT Class 745 operating in Greater Anglia.[^class-745-citation]  
+Right: A 12-car, high-floor, dual-voltage EMU Siemens Desiro City Class 700.[^class-700-citation]
 
 * A common fleet, able to operate under all electrification systems in the region and all current and future signal systems:[^future-signalling-cbtc-ato]  
   * 12 kV 25 Hz AC overhead line (Northeast Corridor (NEC) south of Hell Gate, North Jersey Coast Line (NJCL) north of Aberdeen-Matawan, SEPTA territory[^ex-reading-electrification])  
@@ -132,8 +131,8 @@ Unlike locomotives, dual-mode MUs would be able to fit everywhere on the region'
 
 Among the available options, BEMUs are the most common. The current offerings, such as the Stadler FLIRT Akku, can be designed to offer a roundtrip range of 100 miles off-wire, allowing for trains to continue in service for 50 miles past the end of electrification regardless of weather.[^flirt-akku-bemu-range] This range is good enough for all east-of-Hudson Metro-North lines, and for all LIRR lines except the Montauk Line. If the MTA chooses to purchase BEMUs, it might consider electrifying the Montauk Line from Babylon to Speonk first, which would allow BEMUs to then continue to operate all the way out to Montauk.  
 [![](https://upload.wikimedia.org/wikipedia/commons/a/af/DB_BR_463_001_Velim.jpg)](https://commons.wikimedia.org/wiki/File:DB_BR_463_001_Velim.jpg)[![](https://live.staticflickr.com/65535/51273200450_b4e1f60dfb_o.jpg)](https://www.flickr.com/photos/kitmasterbloke/51273200450/)  
-Left: A Siemens Mireo Plus B BEMU.  
-Right: A Stadler FLIRT Class 755/3 DEMU operating in Greater Anglia. The diesel powerpack can be seen in between the passenger cars.[^siemens-mireo-plus-B-BEMU-citation]
+Left: A Siemens Mireo Plus B BEMU.[^mireo-plus-B-BEMU-citation]  
+Right: A Stadler FLIRT Class 755/3 DEMU operating in Greater Anglia. The diesel powerpack can be seen in between the passenger cars.[^flirt-class-755-3-demu]
 
 The main drawback of dual-mode MUs is their expense. Stadler has sold FLIRT 3XL EMUs in Bremen for $104,000/m[^bremen-flirt-order] and Hanover for $110,000/m,[^hanover-flirt-order] Austrian FLIRT Akku BEMUs are $249,000/m,[^austria-flirt-akku-bemu-order] and Chicago's Metra's FLIRT BEMUs are $197,000/m.[^metra-flirt-bemu-order] We do not have precise costs for DEMUs, but the joint Class 745 and 755 order is $152,000/m[^greater-anglia-flirt-class-745-flirt-demu-class-755-order] and the tri-mode BDEMU HTR412 order is $151,000/m.[^italy-blues-bdemu-htr412-order]
 
@@ -160,8 +159,9 @@ Madison Feinberg
 Robert Hale  
 William Meehan
 
-[^M8-citation]: Interstate Railfan, "A Metro North M-8 EMU arrives at New Haven," (August 28, 2018, <https://commons.wikimedia.org/wiki/File:Interstate_Railfan_-_A_Metro_North_M-8_Arrives_at_New_Haven.jpg>).  
-Dannel Malloy, "Third rail contact shoe on MNCR M8 car \#9101," (January 22, 2017, <https://commons.wikimedia.org/wiki/File:M8_railcar_-9101_contact_shoe,_September_2016.jpg>).
+[^M8-catenary-pantograph-citation]: Interstate Railfan, "A Metro North M-8 EMU arrives at New Haven," (August 28, 2018, <https://commons.wikimedia.org/wiki/File:Interstate_Railfan_-_A_Metro_North_M-8_Arrives_at_New_Haven.jpg>).  
+
+[^M8-third-rail-shoe-citation]: Dannel Malloy, "Third rail contact shoe on MNCR M8 car \#9101," (January 22, 2017, <https://commons.wikimedia.org/wiki/File:M8_railcar_-9101_contact_shoe,_September_2016.jpg>).
 
 [^port-jervis-electrification]: The Port Jervis line would require NJ Transit's Main and/or Bergen County lines to be electrified from Suffern, NY to Hoboken, NJ. These lines run a combined 6 trains per hour at peak with approximately 5 cars that are either single or double deck.
 
@@ -177,11 +177,15 @@ Dannel Malloy, "Third rail contact shoe on MNCR M8 car \#9101," (January 22, 201
 
 [^63rd-st-tunnel-lower-level-citation]: MTA, "Concrete fill placement around the DFF's in the WB1 tunnel that connects the Manhattan caverns to Sunnyside yard in Queen" (March 5, 2018, <https://flickr.com/photos/mtacc-esa/25896641447/>).
 
-[^harriman-low-platform-citation]: MTAEnthusiast10, "A Port Jervis bound train made up of Comet V coaches leaving Harriman station" (September 15, 2020, <https://commons.wikimedia.org/w/index.php?curid=100191924>).  
- Daniel Case, "Manitou train station," (June 17, 2017, <https://commons.wikimedia.org/w/index.php?curid=3416532>).  
-Pi.1415926535, "Rye station viewed from the rear of a Grand Central-bound New Haven Line train in July 2019," (July 31, 2019, <https://commons.wikimedia.org/wiki/File:Rye_station_from_passing_train,_July_2019.JPG>).
+[^harriman-low-platform-citation]: MTAEnthusiast10, "A Port Jervis bound train made up of Comet V coaches leaving Harriman station" (September 15, 2020, <https://commons.wikimedia.org/w/index.php?curid=100191924>).
+
+[^manitou-low-platform-citation]: Daniel Case, "Manitou train station," (June 17, 2017, <https://commons.wikimedia.org/w/index.php?curid=3416532>).
+
+[^rye-high-platform-constructed-citation]: Pi.1415926535, "Rye station viewed from the rear of a Grand Central-bound New Haven Line train in July 2019," (July 31, 2019, <https://commons.wikimedia.org/wiki/File:Rye_station_from_passing_train,_July_2019.JPG>).
 
 [^class-745-citation]: SavageKieran, "Greater Anglia's 745010 'FLIRT' arrives into Colchester working a Liverpool Street - Norwich service" (February 20, 2020 <https://commons.wikimedia.org/wiki/File:Greater_Anglia_745010_Colchester.jpg>).
+
+[^class-700-citation]: Foulger Rail Photos, "Thameslink Class 700 155 at Peterborough," (August 7, 2021, <https://commons.wikimedia.org/wiki/File:Thameslink_Class_700_155_at_Peterborough.jpg>).
 
 [^future-signalling-cbtc-ato]: This includes the current ACSES signaling, but should also be future proofed for future retrofits for higher-capacity, automatic train operation (ATO)-capable, moving-block signaling systems, such as ETCS L2+ or the PTC-certified Siemens Trainguard MT CBTC, as well as the ETMS system used by freight railroads in the region. High-frequency regional rail systems like [Paris' RER](https://www.alstom.com/press-releases-news/2023/11/alstom-wins-300-million-euro-contract-equip-2-rer-lines-ile-de-france-region-latest-nexteo-signalling-technology), [London's Crossrail](https://www.railengineer.co.uk/crossrails-signalling-challenge/), [Copenhagen's S-Train](https://www.railjournal.com/signalling/cbtc-installation-complete-on-copenhagen-s-bane/), and [Mumbai's Suburban Railway](https://www.mid-day.com/mumbai/mumbai-news/article/exclusive-mumbai-local-train-headway-to-come-down-from-180-secs-to-150-secs-23392648) are all using or currently moving to CBTC. Others like [Thameslink](https://www.railengineer.co.uk/signalling-the-thameslink-programme/) and [RRTS](https://www.alstom.com/press-releases-news/2023/10/indias-first-semi-high-speed-regional-train-alstom-namo-bharat-gets-inaugurated-sets-new-world-standard-advanced-signalling-technology) are also using ATO, but under ETCS L2.3.0d or ETCS Hybrid L3, respectively.
 
@@ -209,7 +213,9 @@ Pi.1415926535, "Rye station viewed from the rear of a Grand Central-bound New Ha
 
 [^flirt-akku-bemu-range]: [Stadler's website](https://stadlerrail.com/en/flirt-akku/details/) states a range of up to 150 km (\~93 miles), in any weather that occurs in Germany, specifically in Schleswig-Holstein, where winter temperatures are about 1-2° F warmer than in New York. <https://www.trains.com/trn/news-reviews/news-wire/first-of-many-battery-trains-enter-service-in-germany/>.
 
-[^siemens-mireo-plus-B-BEMU-citation]: Plutowiki, "Siemens Mireo von DB Regio auf dem Eisenbahnversuchsring in Velim," (April 26, 2019, <https://commons.wikimedia.org/wiki/File:DB_BR_463_001_Velim.jpg>).
+[^mireo-plus-B-BEMU-citation]: Plutowiki, "Siemens Mireo von DB Regio auf dem Eisenbahnversuchsring in Velim," (April 26, 2019, <https://commons.wikimedia.org/wiki/File:DB_BR_463_001_Velim.jpg>).
+
+[^flirt-class-755-3-demu]: Steve Knight, "The River Colne Viaduct, at Chappel & Wakes Colne, Essex, UK," (June 26, 2021, <https://www.flickr.com/photos/kitmasterbloke/51273200450/>).
 
 [^bremen-flirt-order]: The Bremen order was [€100 million](https://www.nordsee-zeitung.de/bremerhaven/die-neuen-zuege-der-regio-s-bahn-sind-da-83228.html) / (16 \* [87 m](https://download.transdev.de/transdev/uploads/nwb/media_document/556/original.pdf)) / 0.69 $/€ \= $104k/m (ordered in 2022).
 
