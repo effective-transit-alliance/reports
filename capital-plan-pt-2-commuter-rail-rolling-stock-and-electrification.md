@@ -165,62 +165,62 @@ Dannel Malloy, "Third rail contact shoe on MNCR M8 car \#9101," (January 22, 201
 
 [^2]: The Port Jervis line would require NJ Transit's Main and/or Bergen County lines to be electrified from Suffern, NY to Hoboken, NJ. These lines run a combined 6 trains per hour at peak with approximately 5 cars that are either single or double deck.
 
-[^3]:  The Pascack Valley Line would also need to be electrified by NJ Transit from the New York state line to Hoboken, NJ.
+[^3]: The Pascack Valley Line would also need to be electrified by NJ Transit from the New York state line to Hoboken, NJ.
 
-[^4]:  This comes from subtracting $4.22 million/car from the 2025-2029 Capital Plan, and dividing by the number of coaches to be replaced, assuming that locomotives are replaced at a proportional rate (the LIRR is replacing all rolling stock, for one). The budgets in the 2025-2029 Capital Plan are assumed to incorporate 16% cumulative inflation from 2023\.
+[^4]: This comes from subtracting $4.22 million/car from the 2025-2029 Capital Plan, and dividing by the number of coaches to be replaced, assuming that locomotives are replaced at a proportional rate (the LIRR is replacing all rolling stock, for one). The budgets in the 2025-2029 Capital Plan are assumed to incorporate 16% cumulative inflation from 2023\.
 
-[^5]:  By dual-voltage, we mean trains can run both on low-voltage DC third rail with shoes and high-voltage AC catenary with pantographs. These are also known as multi-voltage.
+[^5]: By dual-voltage, we mean trains can run both on low-voltage DC third rail with shoes and high-voltage AC catenary with pantographs. These are also known as multi-voltage.
 
-[^6]:  We plan to release a report in 2025 discussing international best practices used for cost-effective catenary installation.
+[^6]: We plan to release a report in 2025 discussing international best practices used for cost-effective catenary installation.
 
-[^7]:  MTA image (October 28, 2021, https://commons.wikimedia.org/wiki/File:New\_Cassel\_Substation\_(51636624849).jpg).
+[^7]: MTA image (October 28, 2021, https://commons.wikimedia.org/wiki/File:New\_Cassel\_Substation\_(51636624849).jpg).
 
-[^8]:  MTA, "Concrete fill placement around the DFF's in the WB1 tunnel that connects the Manhattan caverns to Sunnyside yard in Queen" (March 5, 2018, <https://flickr.com/photos/mtacc-esa/25896641447/>).
+[^8]: MTA, "Concrete fill placement around the DFF's in the WB1 tunnel that connects the Manhattan caverns to Sunnyside yard in Queen" (March 5, 2018, <https://flickr.com/photos/mtacc-esa/25896641447/>).
 
-[^9]:  MTAEnthusiast10, "A Port Jervis bound train made up of Comet V coaches leaving Harriman station" (September 15, 2020, <https://commons.wikimedia.org/w/index.php?curid=100191924>).  
+[^9]: MTAEnthusiast10, "A Port Jervis bound train made up of Comet V coaches leaving Harriman station" (September 15, 2020, <https://commons.wikimedia.org/w/index.php?curid=100191924>).  
  Daniel Case, "Manitou train station," (June 17, 2017, <https://commons.wikimedia.org/w/index.php?curid=3416532>).  
 Pi.1415926535, "Rye station viewed from the rear of a Grand Central-bound New Haven Line train in July 2019," (July 31, 2019, <https://commons.wikimedia.org/wiki/File:Rye_station_from_passing_train,_July_2019.JPG>).
 
-[^10]:   SavageKieran, "Greater Anglia's 745010 'FLIRT' arrives into Colchester working a Liverpool Street \- Norwich service" (February 20, 2020 <https://commons.wikimedia.org/wiki/File:Greater_Anglia_745010_Colchester.jpg>).
+[^10]: SavageKieran, "Greater Anglia's 745010 'FLIRT' arrives into Colchester working a Liverpool Street \- Norwich service" (February 20, 2020 <https://commons.wikimedia.org/wiki/File:Greater_Anglia_745010_Colchester.jpg>).
 
-[^11]:  This includes the current ACSES signaling, but should also be future proofed for future retrofits for higher-capacity, automatic train operation (ATO)-capable, moving-block signaling systems, such as ETCS L2+ or the PTC-certified Siemens Trainguard MT CBTC, as well as the ETMS system used by freight railroads in the region. High-frequency regional rail systems like [Paris' RER](https://www.alstom.com/press-releases-news/2023/11/alstom-wins-300-million-euro-contract-equip-2-rer-lines-ile-de-france-region-latest-nexteo-signalling-technology), [London's Crossrail](https://www.railengineer.co.uk/crossrails-signalling-challenge/), [Copenhagen's S-Train](https://www.railjournal.com/signalling/cbtc-installation-complete-on-copenhagen-s-bane/), and [Mumbai's Suburban Railway](https://www.mid-day.com/mumbai/mumbai-news/article/exclusive-mumbai-local-train-headway-to-come-down-from-180-secs-to-150-secs-23392648) are all using or currently moving to CBTC. Others like [Thameslink](https://www.railengineer.co.uk/signalling-the-thameslink-programme/) and [RRTS](https://www.alstom.com/press-releases-news/2023/10/indias-first-semi-high-speed-regional-train-alstom-namo-bharat-gets-inaugurated-sets-new-world-standard-advanced-signalling-technology) are also using ATO, but under ETCS L2.3.0d or ETCS Hybrid L3, respectively.
+[^11]: This includes the current ACSES signaling, but should also be future proofed for future retrofits for higher-capacity, automatic train operation (ATO)-capable, moving-block signaling systems, such as ETCS L2+ or the PTC-certified Siemens Trainguard MT CBTC, as well as the ETMS system used by freight railroads in the region. High-frequency regional rail systems like [Paris' RER](https://www.alstom.com/press-releases-news/2023/11/alstom-wins-300-million-euro-contract-equip-2-rer-lines-ile-de-france-region-latest-nexteo-signalling-technology), [London's Crossrail](https://www.railengineer.co.uk/crossrails-signalling-challenge/), [Copenhagen's S-Train](https://www.railjournal.com/signalling/cbtc-installation-complete-on-copenhagen-s-bane/), and [Mumbai's Suburban Railway](https://www.mid-day.com/mumbai/mumbai-news/article/exclusive-mumbai-local-train-headway-to-come-down-from-180-secs-to-150-secs-23392648) are all using or currently moving to CBTC. Others like [Thameslink](https://www.railengineer.co.uk/signalling-the-thameslink-programme/) and [RRTS](https://www.alstom.com/press-releases-news/2023/10/indias-first-semi-high-speed-regional-train-alstom-namo-bharat-gets-inaugurated-sets-new-world-standard-advanced-signalling-technology) are also using ATO, but under ETCS L2.3.0d or ETCS Hybrid L3, respectively.
 
-[^12]:  Ex-Reading territory is on a separate 12 kV 25 Hz electrical system.
+[^12]: Ex-Reading territory is on a separate 12 kV 25 Hz electrical system.
 
-[^13]:  Many newer NJT trains are already designed to run at 110–125 mph on the NEC, so at least 110 mph should be required. But 125 mph could be achieved in the future on NJT NEC express trains and ease scheduling conflicts with Amtrak trains. 125 mph also gives more flexibility for future improvements, such as LIRR Main Line catenary (the track geometry is very straight) and potential future bypasses on the NEC north and south of NYC. Furthermore, most international rolling stock comes in 100 mph or 125 mph variants, so 125 mph is a natural choice that will likely not cost more than 110 mph.
+[^13]: Many newer NJT trains are already designed to run at 110–125 mph on the NEC, so at least 110 mph should be required. But 125 mph could be achieved in the future on NJT NEC express trains and ease scheduling conflicts with Amtrak trains. 125 mph also gives more flexibility for future improvements, such as LIRR Main Line catenary (the track geometry is very straight) and potential future bypasses on the NEC north and south of NYC. Furthermore, most international rolling stock comes in 100 mph or 125 mph variants, so 125 mph is a natural choice that will likely not cost more than 110 mph.
 
-[^14]:  AW0 refers to the weight of an empty car. AW1 is the weight with crews and all passenger seats occupied (175 lbs per person). AW2 is AW1 plus standees at 3 sq ft per standee, and AW3 is AW1 plus standees at 2 sq ft per standee.
+[^14]: AW0 refers to the weight of an empty car. AW1 is the weight with crews and all passenger seats occupied (175 lbs per person). AW2 is AW1 plus standees at 3 sq ft per standee, and AW3 is AW1 plus standees at 2 sq ft per standee.
 
-[^15]:  This reduces the number of pantographs in contact with the wire, meaning the wire and pantograph wear down less quickly and snag less frequently. Internationally, one active and one backup pantograph per trainset is common.
+[^15]: This reduces the number of pantographs in contact with the wire, meaning the wire and pantograph wear down less quickly and snag less frequently. Internationally, one active and one backup pantograph per trainset is common.
 
-[^16]:  This is imputed as a harmonic average over the 12 months October 2023-September 2024 inclusive.
+[^16]: This is imputed as a harmonic average over the 12 months October 2023-September 2024 inclusive.
 
-[^17]:  This is average acceleration from 0-40 mph.
+[^17]: This is average acceleration from 0-40 mph.
 
-[^18]:  This is calculated from measurements of a P32 from 0-80 mph in 3.4 miles in diesel mode, and 10-60 mph in electric mode. The P32 dual mode locomotive was carrying 7 full cars. Locomotives in third rail mode are also compromised since the gaps between third rails in interlockings are often longer than the distance the shoes on the locomotive can span, which interrupts traction power. Future dual mode locomotives like the SC-42DM Charger are meant to improve the electric mode, but would still be much closer to a diesel locomotive than an EMU.
+[^18]: This is calculated from measurements of a P32 from 0-80 mph in 3.4 miles in diesel mode, and 10-60 mph in electric mode. The P32 dual mode locomotive was carrying 7 full cars. Locomotives in third rail mode are also compromised since the gaps between third rails in interlockings are often longer than the distance the shoes on the locomotive can span, which interrupts traction power. Future dual mode locomotives like the SC-42DM Charger are meant to improve the electric mode, but would still be much closer to a diesel locomotive than an EMU.
 
-[^19]:  This is calculated from measurements of a BL20 from 0-40 mph in 52 seconds in diesel mode, carrying a short 3-car train set on a slight downgrade in the rain.
+[^19]: This is calculated from measurements of a BL20 from 0-40 mph in 52 seconds in diesel mode, carrying a short 3-car train set on a slight downgrade in the rain.
 
-[^20]:  For example, the [Stadler FLIRT Class 755 DEMU](https://stadlerrail.com/media/pdf/feabmu0819_en.pdf) uses a diesel powerpack, [Metra's Stadler FLIRT BEMU](https://stadlerrail.com/media/pdf/fbemu_metra0724_en.pdf) uses a battery powerpack, and the [Stadler FLIRT Class 75](https://tfw.wales/vr360)6 BDEMU uses a combined battery-diesel powerpack.
+[^20]: For example, the [Stadler FLIRT Class 755 DEMU](https://stadlerrail.com/media/pdf/feabmu0819_en.pdf) uses a diesel powerpack, [Metra's Stadler FLIRT BEMU](https://stadlerrail.com/media/pdf/fbemu_metra0724_en.pdf) uses a battery powerpack, and the [Stadler FLIRT Class 75](https://tfw.wales/vr360)6 BDEMU uses a combined battery-diesel powerpack.
 
-[^21]:  The platforms should either already be long enough, or need to be lengthened as some of the trains that operate on these lines are longer than the platforms.
+[^21]: The platforms should either already be long enough, or need to be lengthened as some of the trains that operate on these lines are longer than the platforms.
 
-[^22]:  In the Stadler FLIRT case of Class 745/755-like trains, diesel and battery powerpacks are modular and interchangeable with other FLIRTs designed to be compatible. Thus, the diesel powerpacks could potentially be sold, perhaps to places like NJT, the MBTA, or [Chicago's Metra, who just purchased Stadler FLIRT BEMUs](https://stadlerrail.com/media/pdf/fbemu_metra0724_en.pdf). [Bilevel Stadler KISSes, like Caltrain's](https://stadlerrail.com/media/pdf/kcal0823e_us.pdf), including their upcoming BEMU KISS order, are not compatible, however.
+[^22]: In the Stadler FLIRT case of Class 745/755-like trains, diesel and battery powerpacks are modular and interchangeable with other FLIRTs designed to be compatible. Thus, the diesel powerpacks could potentially be sold, perhaps to places like NJT, the MBTA, or [Chicago's Metra, who just purchased Stadler FLIRT BEMUs](https://stadlerrail.com/media/pdf/fbemu_metra0724_en.pdf). [Bilevel Stadler KISSes, like Caltrain's](https://stadlerrail.com/media/pdf/kcal0823e_us.pdf), including their upcoming BEMU KISS order, are not compatible, however.
 
-[^23]:  [Stadler's website](https://stadlerrail.com/en/flirt-akku/details/) states a range of up to 150 km (\~93 miles), in any weather that occurs in Germany, specifically in Schleswig-Holstein, where winter temperatures are about 1-2° F warmer than in New York. https://www.trains.com/trn/news-reviews/news-wire/first-of-many-battery-trains-enter-service-in-germany/
+[^23]: [Stadler's website](https://stadlerrail.com/en/flirt-akku/details/) states a range of up to 150 km (\~93 miles), in any weather that occurs in Germany, specifically in Schleswig-Holstein, where winter temperatures are about 1-2° F warmer than in New York. https://www.trains.com/trn/news-reviews/news-wire/first-of-many-battery-trains-enter-service-in-germany/
 
 [^24]: Plutowiki, "Siemens Mireo von DB Regio auf dem Eisenbahnversuchsring in Velim," (April 26, 2019, <https://commons.wikimedia.org/wiki/File:DB_BR_463_001_Velim.jpg>).
 
-[^25]:  The Bremen order was [€100 million](https://www.nordsee-zeitung.de/bremerhaven/die-neuen-zuege-der-regio-s-bahn-sind-da-83228.html) / (16 \* [87 m](https://download.transdev.de/transdev/uploads/nwb/media_document/556/original.pdf)) / 0.69 $/€ \= $104k/m (ordered in 2022). , 
+[^25]: The Bremen order was [€100 million](https://www.nordsee-zeitung.de/bremerhaven/die-neuen-zuege-der-regio-s-bahn-sind-da-83228.html) / (16 \* [87 m](https://download.transdev.de/transdev/uploads/nwb/media_document/556/original.pdf)) / 0.69 $/€ \= $104k/m (ordered in 2022). , 
 
-[^26]:  The Hanover order was [€320 million / (64 \* 68 m)](https://stadlerrail.com/de/media/article/stadler-gewinnt-auftrag-fuer-64-flirt-fuer-die-s-bahn-hannover/168/) / 0.69 $/€ \* 1.03 \= $110k/m (ordered in 2018, manufactured between 2020-2024).
+[^26]: The Hanover order was [€320 million / (64 \* 68 m)](https://stadlerrail.com/de/media/article/stadler-gewinnt-auftrag-fuer-64-flirt-fuer-die-s-bahn-hannover/168/) / 0.69 $/€ \* 1.03 \= $110k/m (ordered in 2018, manufactured between 2020-2024).
 
-[^27]:  Austria's FLIRT Akku BEMUs are [€1.3 billion / (120 \* 63 m)](https://www.railvolution.net/news/obb-orders-16-flirt-akku-trains) / [0.69 $/](https://archive.is/l9bep)€ \= $249k/m (ordered in 2023).
+[^27]: Austria's FLIRT Akku BEMUs are [€1.3 billion / (120 \* 63 m)](https://www.railvolution.net/news/obb-orders-16-flirt-akku-trains) / [0.69 $/](https://archive.is/l9bep)€ \= $249k/m (ordered in 2023).
 
-[^28]:  The small combined Metra order (8 2-car BEMUs base order, 8 2-car BEMUs with 32 extra cars for the option) amounts to [($154 million \+ $181.4 million)](https://metra.com/newsroom/metra-buying-battery-powered-trainsets) / [((8 \* 2 \+ 8 \* 2 \+ 32\) \* 51.5 m / 2\)](https://stadlerrail.com/media/pdf/fbemu_metra0724_en.pdf) / 1.034 \= $197k/m (ordered in 2024). However, the addition of the 32 unpowered cars makes these BEMUs quite underpowered.
+[^28]: The small combined Metra order (8 2-car BEMUs base order, 8 2-car BEMUs with 32 extra cars for the option) amounts to [($154 million \+ $181.4 million)](https://metra.com/newsroom/metra-buying-battery-powered-trainsets) / [((8 \* 2 \+ 8 \* 2 \+ 32\) \* 51.5 m / 2\)](https://stadlerrail.com/media/pdf/fbemu_metra0724_en.pdf) / 1.034 \= $197k/m (ordered in 2024). However, the addition of the 32 unpowered cars makes these BEMUs quite underpowered.
 
-[^29]:  Comparable EMU and DEMU orders like the Class 745 and 755 are generally purchased in a single combined order, so the cost premium is difficult to ascertain. The combined cost of the 63% EMU order (with the first trains entering service in 2019\) is [£600 million/(20 \* 236.6 m \+ 14 \* 65 m \+ 24 \* 80.7 m) / 0.67 $/£ \* 1.28](https://archive.is/l9bep) \= $151k/m. 
+[^29]: Comparable EMU and DEMU orders like the Class 745 and 755 are generally purchased in a single combined order, so the cost premium is difficult to ascertain. The combined cost of the 63% EMU order (with the first trains entering service in 2019\) is [£600 million/(20 \* 236.6 m \+ 14 \* 65 m \+ 24 \* 80.7 m) / 0.67 $/£ \* 1.28](https://archive.is/l9bep) \= $151k/m. 
 
-[^30]:  Italy's small tri-mode BDEMU [HTR412 order is ($65 million/(7 cars \* 86.08 m/car)) / 0.688 / 1.0](https://www.trains.com/trn/news-reviews/news-wire/four-mode-trains-enter-service-in-europe/)34 \= $152k/m, with the first trains entering service in 2024\.
+[^30]: Italy's small tri-mode BDEMU [HTR412 order is ($65 million/(7 cars \* 86.08 m/car)) / 0.688 / 1.0](https://www.trains.com/trn/news-reviews/news-wire/four-mode-trains-enter-service-in-europe/)34 \= $152k/m, with the first trains entering service in 2024\.
 
-[^31]:  If electrification takes longer than expected and the locomotives will not last that long, if the MTA decides to increase peak service on the diesel branches, if there are decarbonization laws, or any other potential reason.
+[^31]: If electrification takes longer than expected and the locomotives will not last that long, if the MTA decides to increase peak service on the diesel branches, if there are decarbonization laws, or any other potential reason.
