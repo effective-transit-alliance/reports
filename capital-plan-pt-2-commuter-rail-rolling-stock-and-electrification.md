@@ -157,7 +157,7 @@ Going forward, it is imperative to coordinate and integrate rolling stock procur
 * Blair Lorenzo
 * Darius Jankauskas
 * Kara Fischer
-* Khyber Sen
+* [Khyber Sen](https://github.com/kkysen)
 * Madison Feinberg
 * Robert Hale
 * William Meehan
