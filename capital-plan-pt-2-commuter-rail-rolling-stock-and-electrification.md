@@ -1,6 +1,7 @@
 # A Not-So-Capital Plan Part 2: The Future is Electric
 
-[![][image1]](https://commons.wikimedia.org/wiki/File:Interstate_Railfan_-_A_Metro_North_M-8_Arrives_at_New_Haven.jpg)[![][image2]](https://commons.wikimedia.org/wiki/File:M8_railcar_-9101_contact_shoe,_September_2016.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/e/e5/Interstate_Railfan_-_A_Metro_North_M-8_Arrives_at_New_Haven.jpg)](https://commons.wikimedia.org/wiki/File:Interstate_Railfan_-_A_Metro_North_M-8_Arrives_at_New_Haven.jpg)
+[![](https://upload.wikimedia.org/wikipedia/commons/0/09/M8_railcar_-9101_contact_shoe%2C_September_2016.jpg)](https://commons.wikimedia.org/wiki/File:M8_railcar_-9101_contact_shoe,_September_2016.jpg)
 
 Metro-North’s M8 can run on catenary power (left) or on either over- or under-running third rails (shoe seen at right).[^1]
 
@@ -22,7 +23,7 @@ Greater New York should be a beacon for the rest of the country, an example that
 
 As [ETA has argued in detail to the US Department of Energy](https://www.etany.org/rail-electrification), electric traction is by far the most beneficial rail propulsion technology, especially for high-frequency local operations like commuter rail. The German technical association VDE produced a [recent study](https://web.archive.org/web/20240223194345/https://www.vde.com/resource/blob/1885872/5f42b90859412b8590d0c7539604b0bc/studie-alternativen-zu-dieseltriebzuegen-im-schienenpersonennahverkehr-data.pdf), which found that the tipping point at which full electrification provides a better return on investment than partial electrification with batteries or diesel traction, is about two 2-car trains per hour at the peak. Today, every unelectrified LIRR and Metro-North branch meets this standard at the peak except for the very tails of the lines between Ronkonkoma-Greenport and Speonk-Montauk. That said, as we’ll see below, even these sections would still benefit from electrification, which would allow them to use a common fleet shared with the rest of the system.
 
-![][image3]
+![](https://images.squarespace-cdn.com/content/v1/6172f286c4e030728d09f143/02e80705-6b77-4148-8529-d68c24f41bd5/diesel_branches.png?format=2500w)
 
 The MTA’s currently non-electrified branches. Map created by [Kara Fischer](http://thetransitgirl.tumblr.com/).
 
@@ -55,7 +56,7 @@ First, the construction costs of third rail are significantly higher. The LIRR h
 
 The reason for the cost discrepancy is that low-voltage electrification systems like third rail require dramatically more substations, because each one can only power a few miles of track. By contrast, a substation feeding high-voltage AC to an overhead wire [can instead cover tens of route-miles each](https://mas.to/@25kV/110962472389210219). More frequent substations and associated transmission (connecting the right-of-way to the substations, and the substations to the grid) drive the cost of new third rail far higher than new overhead wire.
 
-[**![][image4]**](https://commons.wikimedia.org/wiki/File:New_Cassel_Substation_\(51636624849\).jpg)Third rail systems require many more power substations, like this one on the LIRR Main Line.[^7]
+[![](https://upload.wikimedia.org/wikipedia/commons/d/dc/New_Cassel_Substation_%2851636624849%29.jpg)](https://commons.wikimedia.org/wiki/File:New_Cassel_Substation_\(51636624849\).jpg)Third rail systems require many more power substations, like this one on the LIRR Main Line.[^7]
 
 The second reason new electrification should be done with catenary is reduced maintenance costs and complexity. With third rail, just about any track-level maintenance requires cutting power, and thus the work trains must run on diesel or batteries. By contrast, since overhead wire is out of the way of both equipment and workers, it can safely be kept powered on during many maintenance operations, reducing outages, saving time, and lowering costs. Overhead wire is also more compatible with track renewal machines, which automate ground-level track renewal (of rails, ties, and ballast) when there is no third rail in the way. Automatic renewal is both faster and cheaper to complete.
 
@@ -65,7 +66,7 @@ Fortunately, thanks to the wide availability of trains that can switch between t
 
 The biggest concern with this approach is that the M8s, the current dual-voltage trains in use at the MTA, are too tall to fit through the 63rd Street Tunnel, used by LIRR trains to reach Grand Central Madison. Many off-the-shelf trains from around the world, however, would fit with room to spare. Consider the [Class 319 in London, the first generation](https://web.archive.org/web/20160303215604/http://www.barrowmoremrg.co.uk/BRBDocuments/Diagram_Book_210_for_Issue.pdf#page=86) of rolling stock for that city’s Thameslink project. Thameslink connected catenary-powered lines north of London with third rail electrified lines to its south. The Class 319 has a maximum height of 12' 5" above the top of the rail with the pantograph lowered, which has remained the standard for new dual-voltage trains since. Thus, even though London platform heights are lower, similar trains could easily be raised to meet US platform standards while still fitting through the 63rd Street Tunnel. For example, the [Class 700 Desiro](https://assets.new.siemens.com/siemens/assets/api/uuid:18947a8881a7ddb5131bbb8540ef4ffabc954f20/desiro-city-thameslink-data-sheet-en.pdf) suburban trains currently serving London have floors 44" above the top of the rail, while the Northeastern US standard is 51". A similar unit built for the US would then be only 13' tall. [The Class 395 Javelins used on High Speed 1](https://web.archive.org/web/20121004195758/http://www.railwaygazette.com/news/single-view/view/hitachi-preferred-for-ctrl-domestic-trains.html) for commuter services have a floor height of 4' 0.6" and would only need to be raised by 2.4" from its height of 12' 6.3". Given that the LIRR’s current M7 trains, which were designed to fit in the 63rd Street Tunnel, are [13' 3"](http://www.trainsarefun.com/lirr/M7/M7-Bombardier-spec-sheet.jpg), these trainsets would have no trouble navigating New York’s tightest commuter rail tunnel.
 
-[![][image5]](https://flickr.com/photos/mtacc-esa/25896641447/)
+[![](https://live.staticflickr.com/4774/25896641447_bbc036a029_o.jpg)](https://flickr.com/photos/mtacc-esa/25896641447/)
 
 63rd Street Tunnel, lower level (LIRR level) in the under-river tube section.[^8]
 
@@ -77,7 +78,7 @@ Modern rolling stock requires stations to have consistent platform heights. Unif
 
 Metro-North has largely done the same on its stations, but there are a few gaps as some low-platform or very short high-platform stations remain. Since all of these stations exist beyond the end of current electrification, it is important to make sure that they are rebuilt at the same time as electrification.
 
-[**![][image6]**](https://commons.wikimedia.org/wiki/File:Port_Jervis_bound_train_leaving_Harriman.jpg#/media/File:Port_Jervis_bound_train_leaving_Harriman.jpg)**[![][image7]](https://commons.wikimedia.org/wiki/File:Manitou_train_station.jpg#/media/File:Manitou_train_station.jpg)[![][image8]](https://commons.wikimedia.org/wiki/File:Rye_station_from_passing_train,_July_2019.JPG)**
+[![](https://upload.wikimedia.org/wikipedia/commons/d/d7/Port_Jervis_bound_train_leaving_Harriman.jpg)](https://commons.wikimedia.org/wiki/File:Port_Jervis_bound_train_leaving_Harriman.jpg)[![](https://upload.wikimedia.org/wikipedia/commons/d/d0/Manitou_train_station.jpg)](https://commons.wikimedia.org/wiki/File:Manitou_train_station.jpg)[![](https://upload.wikimedia.org/wikipedia/commons/6/6a/Rye_station_from_passing_train%2C_July_2019.JPG)](https://commons.wikimedia.org/wiki/File:Rye_station_from_passing_train,_July_2019.JPG)
 
 Left: The low platform at Harriman station.  
 Right: The low platform at Manitou station.  
@@ -97,7 +98,7 @@ ETA strongly recommends that the MTA procure a single type of commuter rail roll
 
 At the same time, ETA recommends against designing a new train. More often than not, large cities overspecify their designs, leading to large cost premiums such as those in Paris and Berlin. Smaller and more peripheral cities, conversely, such as those in Italy and the Nordic countries, tend to buy off the shelf and pay less, despite buying from the same European supply chains. Thus, the MTA should buy production trains made by major international vendors, modified only for modular elements such as the loading gauge and electrification. These include train models such as the high-floor Siemens Desiro/Mireo, Stadler FLIRT, Hitachi A-train, CAF Civity/Civia, or Alstom Aventra/Coradia. These standard trains can be made with the following specifications:
 
-[**![][image9]**](https://en.wikipedia.org/wiki/British_Rail_Class_745#/media/File:Greater_Anglia_745010_Colchester.jpg)![][image10]
+[![](https://upload.wikimedia.org/wikipedia/commons/a/ad/Greater_Anglia_745010_Colchester.jpg)](https://en.wikipedia.org/wiki/British_Rail_Class_745#/media/File:Greater_Anglia_745010_Colchester.jpg)[![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Thameslink_Class_700_155_at_Peterborough.jpg)](https://commons.wikimedia.org/wiki/File:Thameslink_Class_700_155_at_Peterborough.jpg)
 
 Left: A 12-car, high-floor EMU Stadler FLIRT Class 745 operating in Greater Anglia.
 
@@ -130,7 +131,7 @@ Because they are based on EMUs, dual-mode MUs would also provide a seamless tran
 Unlike locomotives, dual-mode MUs would be able to fit everywhere on the region’s commuter rail network, including into the 63rd Street Tunnel, the Atlantic Branch tunnel, and up the 3.5% grades into Grand Central Madison thanks to their increased traction. This would allow for a more unified fleet, so dual-mode MUs would be able to operate on the entire network, imposing fewer constraints on the system than the existing locomotives.
 
 Among the available options, BEMUs are the most common. The current offerings, such as the Stadler FLIRT Akku, can be designed to offer a roundtrip range of 100 miles off-wire, allowing for trains to continue in service for 50 miles past the end of electrification regardless of weather.[^23] This range is good enough for all east-of-Hudson Metro-North lines, and for all LIRR lines except the Montauk Line. If the MTA chooses to purchase BEMUs, it might consider electrifying the Montauk Line from Babylon to Speonk first, which would allow BEMUs to then continue to operate all the way out to Montauk.  
-[![][image11]](https://commons.wikimedia.org/wiki/File:DB_BR_463_001_Velim.jpg)[![][image12]](https://www.flickr.com/photos/kitmasterbloke/51273200450/)  
+[![](https://upload.wikimedia.org/wikipedia/commons/a/af/DB_BR_463_001_Velim.jpg)](https://commons.wikimedia.org/wiki/File:DB_BR_463_001_Velim.jpg)[![](https://live.staticflickr.com/65535/51273200450_b4e1f60dfb_o.jpg)](https://www.flickr.com/photos/kitmasterbloke/51273200450/)  
 Left: A Siemens Mireo Plus B BEMU.  
 Right: A Stadler FLIRT Class 755/3 DEMU operating in Greater Anglia. The diesel powerpack can be seen in between the passenger cars.[^24]
 
