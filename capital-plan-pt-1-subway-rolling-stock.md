@@ -100,27 +100,27 @@ Today, it is more cost-effective to procure off-the-shelf subway cars with moder
 
 At this quarter-mark into the 21st century, it is clear that transit governance in New York is in urgent need of improvement, and New Yorkers have become rightfully skeptical of governance without seeing improvements on the ground. By adopting best practices in rolling stock procurement, the MTA can start demonstrating that good governance is in fact possible and become an example for cities and regions across the country.
 
-[^1]:  Marron uses cost per meter of trainset length as its chosen measure, as the trains compared vary greatly in both number of cars and length of each car; in contrast, width is unimportant.
+[^1]: Marron uses cost per meter of trainset length as its chosen measure, as the trains compared vary greatly in both number of cars and length of each car; in contrast, width is unimportant.
 
-[^2]:  [$1,775 million / (355 cars](https://new.mta.info/document/151266#page=94) \* 60.21 ft) \= $272,450/m
+[^2]: [$1,775 million / (355 cars](https://new.mta.info/document/151266#page=94) \* 60.21 ft) \= $272,450/m
 
-[^3]:  [$3,950 million / (1140 cars](https://new.mta.info/document/151266#page=94) \* 51.33 ft) \= $221,451/m
+[^3]: [$3,950 million / (1140 cars](https://new.mta.info/document/151266#page=94) \* 51.33 ft) \= $221,451/m
 
-[^4]:  The subway system is split into two divisions which use trains of different sizes: the A division, made up of the numbered lines (and the 42nd Street Shuttle), and the B division, made up of the lettered lines.
+[^4]: The subway system is split into two divisions which use trains of different sizes: the A division, made up of the numbered lines (and the 42nd Street Shuttle), and the B division, made up of the lettered lines.
 
-[^5]:  Not to be confused with the 1982 [Buy America](https://en.wikipedia.org/wiki/Buy_America_Act) Act; Buy American was passed in 1933\.
+[^5]: Not to be confused with the 1982 [Buy America](https://en.wikipedia.org/wiki/Buy_America_Act) Act; Buy American was passed in 1933\.
 
-[^6]:  Subway rolling stock is generally divided into two categories, with shorter, narrower trains on the A division (the former IRT, today's numbered lines, with 8.5' wide, 51' long cars), and longer, wider trains on the B division (the former BMT and IND, today's lettered lines, with 10' wide, 60' long cars). 75 foot trains could only operate on the former IND and the southern division of the BMT, meaning they could not be used on the L, J, M, or Z trains.
+[^6]: Subway rolling stock is generally divided into two categories, with shorter, narrower trains on the A division (the former IRT, today's numbered lines, with 8.5' wide, 51' long cars), and longer, wider trains on the B division (the former BMT and IND, today's lettered lines, with 10' wide, 60' long cars). 75 foot trains could only operate on the former IND and the southern division of the BMT, meaning they could not be used on the L, J, M, or Z trains.
 
-[^7]:  The Hub Bound Reports of [2019](https://www.nymtc.org/Portals/0/Pdf/Hub%20Bound/2019%20Hub%20Bound/DM_TDS_Hub_Bound_Travel_2019.pdf?ver=GS5smEoyHSsHsyX_t_Zriw%3d%3d) and [1989](https://www.nymtc.org/Portals/0/Pdf/Archives/Hub%20Bound%20archive/1985-1989Hub-Bound%20Report.zip?ver=2016-04-20-122157-307)'s respective Table 14 data show that, where weekday subway ridership into the Manhattan core rose over this period from 1,838,503 to 2,227,922, ridership in the 7-10 am peak period actually fell from 1,009,010 to 923,095.
+[^7]: The Hub Bound Reports of [2019](https://www.nymtc.org/Portals/0/Pdf/Hub%20Bound/2019%20Hub%20Bound/DM_TDS_Hub_Bound_Travel_2019.pdf?ver=GS5smEoyHSsHsyX_t_Zriw%3d%3d) and [1989](https://www.nymtc.org/Portals/0/Pdf/Archives/Hub%20Bound%20archive/1985-1989Hub-Bound%20Report.zip?ver=2016-04-20-122157-307)'s respective Table 14 data show that, where weekday subway ridership into the Manhattan core rose over this period from 1,838,503 to 2,227,922, ridership in the 7-10 am peak period actually fell from 1,009,010 to 923,095.
 
-[^8]:  10-car A division trains are arranged with A and B cars as ABBBA-ABBBA. A cars are cab cars, while B cars are non-cab cars, and have a slightly larger interior as a result.
+[^8]: 10-car A division trains are arranged with A and B cars as ABBBA-ABBBA. A cars are cab cars, while B cars are non-cab cars, and have a slightly larger interior as a result.
 
-[^9]:  The MTA uses a slightly different term for this, the Limiting Line of Line Equipment (LLLE), the line beyond which no line equipment (such as PSDs, a tunnel wall, or wall equipment) can be placed. For the MTA, the [LLLE is slightly larger than the dynamic envelope](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25ab8587-ec10-4eaa-9580-e6409e6651cf_617x641.png). The above recommendations about the dynamic envelope all equally apply to the LLLE as well.
+[^9]: The MTA uses a slightly different term for this, the Limiting Line of Line Equipment (LLLE), the line beyond which no line equipment (such as PSDs, a tunnel wall, or wall equipment) can be placed. For the MTA, the [LLLE is slightly larger than the dynamic envelope](https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25ab8587-ec10-4eaa-9580-e6409e6651cf_617x641.png). The above recommendations about the dynamic envelope all equally apply to the LLLE as well.
 
-[^10]:  Automatic Train Protection (ATP), a safety critical [SIL4](https://en.wikipedia.org/wiki/Safety_integrity_level#SIL_types_and_certification) (safety integrity level 4, or a one in a billionth chance of failure per hour) system, would not allow high speeds near stations.
+[^10]: Automatic Train Protection (ATP), a safety critical [SIL4](https://en.wikipedia.org/wiki/Safety_integrity_level#SIL_types_and_certification) (safety integrity level 4, or a one in a billionth chance of failure per hour) system, would not allow high speeds near stations.
 
-[^11]:  As cell service is rolled out in more tunnels, the intermittent connection would shift to continuous connection.
+[^11]: As cell service is rolled out in more tunnels, the intermittent connection would shift to continuous connection.
 
 [^12]: 
 
