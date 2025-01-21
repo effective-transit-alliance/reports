@@ -296,9 +296,10 @@ The
 explains that the Queens Boulevard Line CBTC system currently assumes a GEBR of only 1.4 mph/s,
 and the best that current rolling stock can achieve is 1.8 mph/s,
 even though these trains are theoretically supposed to be 2.3–2.4 mph/s.
-  ![](https://lh3.googleusercontent.com/d/1FFFFzRv2nGgPS2A2c5TaD2MLqIDR1Ve0)
 
-  The staggered doors on a B car of an R142 2 train. From Khyber Sen, ETA.
+![](https://lh3.googleusercontent.com/d/1FFFFzRv2nGgPS2A2c5TaD2MLqIDR1Ve0)
+
+The staggered doors on a B car of an R142 2 train. From Khyber Sen, ETA.
 
 * Doors at the same locations as the existing rolling stock
 that will remain in service on each division, to avoid adding conflicts for platform screen door
@@ -312,15 +313,17 @@ which staggered doors supposedly do better,
 but it is more important to have consistent door placement for all trains using the same line.
 Therefore,
 the R262 should stagger the doors like the R142 whereas the R268 should be like the R160 and not stagger them.
-  ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25ab8587-ec10-4eaa-9580-e6409e6651cf_617x641.png)![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4648f0c-889b-4563-896a-f70c49bd0502_650x862.png)
 
-  Left:
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25ab8587-ec10-4eaa-9580-e6409e6651cf_617x641.png)
+![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4648f0c-889b-4563-896a-f70c49bd0502_650x862.png)
+
+Left:
 A diagram showing the Limiting Line of Line Equipment (LLLE) and dynamic envelope (DE)
 of a B division train, and the 11" gap it creates.
 From the [MTA PSD Study](https://new.mta.info/document/73241#page=90), but labeled by John Pegram
 (BQRail).
 
-  Right: A picture of the small gap between the train and PSD on the JFK AirTrain.
+Right: A picture of the small gap between the train and PSD on the JFK AirTrain.
 From John Pegram (BQRail).
 
 * A reduced dynamic envelope to make PSD installation significantly more feasible, as
@@ -362,11 +365,13 @@ tightening and refining the dynamic envelope standards to the actual physical ca
 Furthermore, reducing the dynamic envelope has numerous other benefits,
 from track worker safety to smoother trains to reduced tunnel clearance (for example,
 allowing B division-sized trains to fit in the East NY Tunnel).
-  ![](https://lh3.googleusercontent.com/d/1FG5BTqO8M_0k7l9qiUNlhKRnDjPRXSvj)![](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fr6j3klgg6t5gqk5dvocurnj/bafkreicy25d5seevxnc5xv7v6qmyt6lhbrqk3lymss6u5zrtvgmycetv4m@jpeg)
 
-  Left: R211T PIS. From Khyber Sen, ETA.
+![](https://lh3.googleusercontent.com/d/1FG5BTqO8M_0k7l9qiUNlhKRnDjPRXSvj)
+![](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fr6j3klgg6t5gqk5dvocurnj/bafkreicy25d5seevxnc5xv7v6qmyt6lhbrqk3lymss6u5zrtvgmycetv4m@jpeg)
 
-  Right: Paper sign because the PIS was too inflexible to update in time.
+Left: R211T PIS. From Khyber Sen, ETA.
+
+Right: Paper sign because the PIS was too inflexible to update in time.
 From [Jason Rabinowitz](https://bsky.app/profile/airlineflyer.net/post/3lb4d7vscds2b).
 
 * Modern passenger information screens (PIS)
