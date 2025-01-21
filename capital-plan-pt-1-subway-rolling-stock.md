@@ -372,9 +372,8 @@ From [Jason Rabinowitz](https://bsky.app/profile/airlineflyer.net/post/3lb4d7vsc
 * Modern passenger information screens (PIS)
 that are capable of displaying any website on a modern standards-compliant web browser and are capable of intermittently connecting to the internet,
 at the very least anywhere there is cell service.[^11]
-This would avoid issues with bespoke vendor software that is difficult to update[^12]
-by using global, proven standards and open-source software and websites
-that will update in real time.
+This would avoid issues with bespoke vendor software that is difficult to update by using global,
+proven standards and open-source software and websites that will update in real time.
 The MTA has taken great strides forward in its PIS designs, but
 because the software remains bespoke and inflexible, last week, the MTA had to resort to using
 [paper signs](https://bsky.app/profile/airlineflyer.net/post/3lb4d7vscds2b)
@@ -455,5 +454,3 @@ would not allow high speeds near stations.
 
 [^11]: As cell service is rolled out in more tunnels,
 the intermittent connection would shift to continuous connection.
-
-[^12]: 
