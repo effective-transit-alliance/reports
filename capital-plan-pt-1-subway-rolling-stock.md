@@ -229,7 +229,7 @@ or Stadler METRO.
 These trainsets simplify maintenance through standardization and include many features
 that remain rare or nonexistent in New York or that the MTA does not use to its full potential:
 
-![][image1]
+![](https://lh3.googleusercontent.com/d/1F8a_4wkI2CUAuhGoF5s_mcr1Gy9zsk24)
 
 R211T open gangway. From Khyber Sen, ETA.
 
@@ -296,7 +296,7 @@ The
 explains that the Queens Boulevard Line CBTC system currently assumes a GEBR of only 1.4 mph/s,
 and the best that current rolling stock can achieve is 1.8 mph/s,
 even though these trains are theoretically supposed to be 2.3–2.4 mph/s.
-  ![][image2]
+  ![](https://lh3.googleusercontent.com/d/1FFFFzRv2nGgPS2A2c5TaD2MLqIDR1Ve0)
 
   The staggered doors on a B car of an R142 2 train. From Khyber Sen, ETA.
 
@@ -312,7 +312,7 @@ which staggered doors supposedly do better,
 but it is more important to have consistent door placement for all trains using the same line.
 Therefore,
 the R262 should stagger the doors like the R142 whereas the R268 should be like the R160 and not stagger them.
-  ![][image3]![][image4]
+  ![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F25ab8587-ec10-4eaa-9580-e6409e6651cf_617x641.png)![](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff4648f0c-889b-4563-896a-f70c49bd0502_650x862.png)
 
   Left:
 A diagram showing the Limiting Line of Line Equipment (LLLE) and dynamic envelope (DE)
@@ -362,7 +362,7 @@ tightening and refining the dynamic envelope standards to the actual physical ca
 Furthermore, reducing the dynamic envelope has numerous other benefits,
 from track worker safety to smoother trains to reduced tunnel clearance (for example,
 allowing B division-sized trains to fit in the East NY Tunnel).
-  ![][image5]![][image6]
+  ![](https://lh3.googleusercontent.com/d/1FG5BTqO8M_0k7l9qiUNlhKRnDjPRXSvj)![](https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:fr6j3klgg6t5gqk5dvocurnj/bafkreicy25d5seevxnc5xv7v6qmyt6lhbrqk3lymss6u5zrtvgmycetv4m@jpeg)
 
   Left: R211T PIS. From Khyber Sen, ETA.
 
@@ -457,15 +457,3 @@ would not allow high speeds near stations.
 the intermittent connection would shift to continuous connection.
 
 [^12]: 
-
-[image1]: TODO
-
-[image2]: TODO
-
-[image3]: TODO
-
-[image4]: TODO
-
-[image5]: TODO
-
-[image6]: TODO
